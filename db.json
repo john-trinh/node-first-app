@@ -1,0 +1,988 @@
+{
+  "meeting": [
+    {
+      "id": "sapa",
+      "name": "Sapa",
+      "img": "/assets/imgs/sapa.jpg",
+      "status": 1
+    },
+    {
+      "id": "cantho",
+      "name": " Can Tho",
+      "img": "/assets/imgs/cantho.jpg",
+      "status": 1
+    }
+  ],
+  "booking": [
+    {
+      "room": "cantho",
+      "start": "1530440219000",
+      "end": "1530445619000",
+      "title": "Brie daily meeting",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam reiciendis accusantium incidunt saepe facilis illum adipisci.",
+      "author": "nguyen.tlc"
+    },
+    {
+      "room": "cantho",
+      "start": "1530440219000",
+      "end": "1530445619000",
+      "title": "OC3 Leaders meeting",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam reiciendis accusantium incidunt saepe facilis illum adipisci.",
+      "author": "an.lam"
+    },
+    {
+      "room": "cantho",
+      "start": "1530440219000",
+      "end": "1530445619000",
+      "title": "Brie FE team internal meeting",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam reiciendis accusantium incidunt saepe facilis illum adipisci.",
+      "author": "tan.vo"
+    },
+    {
+      "room": "sapa",
+      "start": "1530440219000",
+      "end": "1530445619000",
+      "title": "SU1 meeting",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam reiciendis accusantium incidunt saepe facilis illum adipisci.",
+      "author": "someone.surname"
+    },
+    {
+      "room": "sapa",
+      "start": "1530440219000",
+      "end": "1530445619000",
+      "title": "Meeting something for some other things",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam reiciendis accusantium incidunt saepe facilis illum adipisci.",
+      "author": "holy moly fucking asshole"
+    },
+    {
+      "room": "sapa",
+      "start": "1530440219000",
+      "end": "1530445619000",
+      "title": "Test Server",
+      "description": "Test Server",
+      "author": "User 1"
+    },
+    {
+      "room": "sapa",
+      "start": "1530440219000",
+      "end": "1530445619000",
+      "title": "sgd",
+      "description": "asdfagg",
+      "author": ""
+    },
+    {
+      "room": "sapa",
+      "start": "1527845309000",
+      "end": "1527847109000",
+      "title": "asfd",
+      "description": "asdf",
+      "author": ""
+    },
+    {
+      "room": "sapa",
+      "start": "1527845368000",
+      "end": "1527847168000",
+      "title": "asdffsdf",
+      "description": "sfsdfsfsdfsfsdfdsf",
+      "author": ""
+    },
+    {
+      "room": "cantho",
+      "start": "1528087831000",
+      "end": "1528050631000",
+      "title": "tesst validate form",
+      "description": "asfdsdfa tesst validate form",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528001609000",
+      "end": "1528003409000",
+      "title": "qwere",
+      "description": "asefsdafsfsdf",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1527915310000",
+      "end": "1527917110000",
+      "title": "fsfsfsdfsf",
+      "description": "sdsdfsdfsdfsdfsdfsdf",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528185799000",
+      "end": "1528187599000",
+      "title": "tesst",
+      "description": "tesst",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528272891000",
+      "end": "1528274691000",
+      "title": "fefaeff",
+      "description": "dSFFFDFSDF",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528097726000",
+      "end": "1528095926000",
+      "title": "tesst ngay 4/6",
+      "description": "description",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528105015000",
+      "end": "1528106815000",
+      "title": "4/6",
+      "description": "4/6",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528109213000",
+      "end": "1528111073000",
+      "title": "4/6",
+      "description": "4/6",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528106439000",
+      "end": "1528108239000",
+      "title": "overlapped",
+      "description": "overlapped",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528106817000",
+      "end": "1528111257000",
+      "title": "overlapp 5h",
+      "description": "overlap",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528106683000",
+      "end": "1528108903000",
+      "title": "gf",
+      "description": "asdf",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528193944000",
+      "end": "1528195744000",
+      "title": "qe5trgsdfgdag",
+      "description": "asdfsdgdgeg",
+      "author": "110"
+    },
+    {
+      "room": "sapa",
+      "start": "1528812580000",
+      "end": "1528803580000",
+      "title": "SDFF",
+      "description": "ASFSGGW",
+      "author": "107"
+    },
+    {
+      "room": "sapa",
+      "start": "1528283439000",
+      "end": "1528285239000",
+      "title": "TEST TODAY (6/6)",
+      "description": "TEST TODAY (6/6)",
+      "author": "107"
+    },
+    {
+      "room": "sapa",
+      "start": "1528880746000",
+      "end": "1528882246000",
+      "title": "tesst1",
+      "description": "sadfdfsfsf",
+      "author": ""
+    },
+    {
+      "room": "sapa",
+      "start": "1528883159000",
+      "end": "1528884659000",
+      "title": "tesst 2",
+      "description": "sfsfwsfew",
+      "author": ""
+    },
+    {
+      "room": "sapa",
+      "start": "1528883113000",
+      "end": "1528884673000",
+      "title": "testess 3",
+      "description": "sdffaf",
+      "author": ""
+    },
+    {
+      "room": "sapa",
+      "start": "1530180948000",
+      "end": "1530180348000",
+      "title": "jhv",
+      "description": "j,hv",
+      "author": "110"
+    }
+  ],
+  "staff": [
+    {
+      "email": "mo.le@sutrixsolutions.com",
+      "name": "Le Thi Dam Mo",
+      "user": "mo.le",
+      "project": "BRIE",
+      "role": "Frontend Team Leader",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "0937737487",
+      "skype": "sutrix.mo.le",
+      "coordinates": {
+        "x": 3,
+        "y": 7
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/d8330f857a17c53d217014ee776bfd50.jpeg"
+    },
+    {
+      "email": "an.lam@sutrixsolutions.com",
+      "name": "Lam Thanh An",
+      "user": "an.lam@sutrixsolutions.com",
+      "project": "brie",
+      "role": "Project Manager",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "0919752118",
+      "skype": "sutrix.an.lam",
+      "coordinates": {
+        "x": 1,
+        "y": 7
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/df9028fcb6b065e000ffe8a4f03eeb38.png"
+    },
+    {
+      "email": "nguyen.tlc@sutrixsolutions.com",
+      "name": "Trinh Le Chi Nguyen",
+      "user": "nguyen.tlc",
+      "project": "brie",
+      "role": "Frontend Developer",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "01648938123",
+      "skype": "nguyen.tlc",
+      "coordinates": {
+        "x": 3,
+        "y": 4
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/7827d1ec626c891d4b61a15c9dff296e.jpg"
+    },
+    {
+      "email": "trang.cao@sutrixsolutions.com",
+      "name": "Cao Thi Thuy Trang",
+      "user": "trang.cao",
+      "project": "brie",
+      "role": "Frontend Developer",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "01642007271",
+      "skype": "trang.cao",
+      "coordinates": {
+        "x": 3,
+        "y": 6
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/a3eb043e7bf775de87763e9f8121c953.jpg"
+    },
+    {
+      "email": "hoang.lp@sutrixsolutions.com",
+      "name": "Le Phuoc Hoang",
+      "user": "hoang.lp",
+      "project": "brie",
+      "role": "Frontend Developer",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "01687757274",
+      "skype": "hoang.lp@sutrixsolutions.com",
+      "coordinates": {
+        "x": 3,
+        "y": 5
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/7e05d6f828574fbc975a896b25bb011e.png"
+    },
+    {
+      "name": "Ho Thi Man",
+      "email": "man.ho@sutrixsolutions.com",
+      "user": "man.ho",
+      "project": "BRIE",
+      "role": "QC Team Leader",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "01633025822",
+      "skype": "sutrix.man.ho",
+      "coordinates": {
+        "x": 2,
+        "y": 7
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/635440afdfc39fe37995fed127d7df4f.jpg"
+    },
+    {
+      "name": "Nguyen Tien Viet",
+      "email": "viet.nguyen@sutrixsolutions.com",
+      "user": "viet.nguyen",
+      "project": "BRIE",
+      "role": "QC",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "0888122345",
+      "skype": "viet.nguyen@sutrixsolutions.com",
+      "coordinates": {
+        "x": 2,
+        "y": 5
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/234833147b97bb6aed53a8f4f1c7a7d8.jpg"
+    },
+    {
+      "name": "Nguyen Thanh Xuan",
+      "email": "xuan.nguyen@sutrixsolutions.com",
+      "user": "xuan.nguyen",
+      "project": "BRIE",
+      "role": "Frontend Developer",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "0908455109",
+      "skype": "sutrix.xuan.nguyen",
+      "coordinates": {
+        "x": 3,
+        "y": 3
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/fb2e203234df6dee15934e448ee88971.jpeg"
+    },
+    {
+      "name": "Nguyen Quang Nhat",
+      "email": "nhat.nguyen@sutrixsolutions.com",
+      "user": "nhat.nguyen",
+      "project": "BRIE",
+      "role": "Backend Team Leader",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "0979539596",
+      "skype": "nhat.nguyen@sutrixsolutions.com",
+      "coordinates": {
+        "x": 1,
+        "y": 2
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/db60b95decdeed944b4cd8685417cfdc.png"
+    },
+    {
+      "name": "Lam Thanh Hien",
+      "email": "hien.lam@sutrixsolutions.com",
+      "user": "hien.lam",
+      "project": "BRIE",
+      "role": "Frontend Developer",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "0888801500",
+      "skype": "hien.lam@sutrixsolutions.com",
+      "coordinates": {
+        "x": 4,
+        "y": 4
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/f1e2b2c9255d552500a833ac828cd635.jpg"
+    },
+    {
+      "name": "Vo Tran Ngoc Tan",
+      "email": "tan.vtn@sutrixsolutions.com",
+      "user": "tan.vtn",
+      "project": "BRIE",
+      "role": "Frontend Team Leader",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "0908290192",
+      "skype": "tan.vtn@sutrixsolutions.com",
+      "coordinates": {
+        "x": 4,
+        "y": 5
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/c3614206a443012045cfd75d2600af2d.jpg"
+    },
+    {
+      "name": "Truong Thanh Sang",
+      "email": "sang.truong@sutrixsolutions.com",
+      "user": "sang.truong",
+      "project": "BRIE",
+      "role": "Backend Team Leader",
+      "serviceUnit": "SU1 - Globe",
+      "phone": "0909522914",
+      "skype": "sutrix.sang.truong",
+      "coordinates": {
+        "x": 2,
+        "y": 2
+      },
+      "avatar": "http://company.org.sutrix.com/public/person/thumb/df9028fcb6b065e000ffe8a4f03eeb38.png"
+    }
+  ],
+  "config": {
+    "project": [
+      {
+        "text": "BRIE",
+        "value": "brie"
+      },
+      {
+        "text": "OC3",
+        "value": "oc3"
+      },
+      {
+        "text": "Sale Agent",
+        "value": "sag"
+      }
+    ],
+    "role": [
+      {
+        "text": "Frontend Developer",
+        "value": "fe"
+      },
+      {
+        "text": "Frontend Team Leader",
+        "value": "fetl"
+      },
+      {
+        "text": "Backend Developer",
+        "value": "be"
+      },
+      {
+        "text": "Backend Team Leader",
+        "value": "betl"
+      },
+      {
+        "text": "QC",
+        "value": "qc"
+      },
+      {
+        "text": "QC Team Leader",
+        "value": "qctl"
+      },
+      {
+        "text": "Backend Team Leader",
+        "value": "betl"
+      },
+      {
+        "text": "Architect",
+        "value": "ar"
+      },
+      {
+        "text": "Project Manager",
+        "value": "pm"
+      }
+    ]
+  },
+  "seat": [
+    [
+      {
+        "status": 0,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 0,
+        "y": 1
+      },
+      {
+        "status": 0,
+        "x": 0,
+        "y": 2
+      },
+      {
+        "status": 0,
+        "x": 0,
+        "y": 3
+      },
+      {
+        "status": 0,
+        "x": 0,
+        "y": 4
+      },
+      {
+        "status": 0,
+        "x": 0,
+        "y": 5
+      },
+      {
+        "status": 0,
+        "x": 0,
+        "y": 6
+      },
+      {
+        "status": 0,
+        "x": 0,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 1,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 1,
+        "y": 1
+      },
+      {
+        "status": 1,
+        "x": 1,
+        "y": 2,
+        "user": "nhat.nguyen"
+      },
+      {
+        "status": 0,
+        "x": 1,
+        "y": 3
+      },
+      {
+        "status": 0,
+        "x": 1,
+        "y": 4
+      },
+      {
+        "status": 0,
+        "x": 1,
+        "y": 5
+      },
+      {
+        "status": 0,
+        "x": 1,
+        "y": 6
+      },
+      {
+        "status": 1,
+        "x": 1,
+        "y": 7,
+        "user": "an.lam@sutrixsolutions.com"
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 2,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 2,
+        "y": 1
+      },
+      {
+        "status": 1,
+        "x": 2,
+        "y": 2,
+        "user": "sang.truong"
+      },
+      {
+        "status": 0,
+        "x": 2,
+        "y": 3
+      },
+      {
+        "status": 0,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "status": 1,
+        "x": 2,
+        "y": 5,
+        "user": "viet.nguyen"
+      },
+      {
+        "status": 0,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "status": 1,
+        "x": 2,
+        "y": 7,
+        "user": "man.ho"
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 3,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 3,
+        "y": 1
+      },
+      {
+        "status": 0,
+        "x": 3,
+        "y": 2
+      },
+      {
+        "status": 1,
+        "x": 3,
+        "y": 3,
+        "user": "xuan.nguyen"
+      },
+      {
+        "status": 1,
+        "x": 3,
+        "y": 4,
+        "user": "nguyen.tlc"
+      },
+      {
+        "status": 1,
+        "x": 3,
+        "y": 5,
+        "user": "hoang.lp"
+      },
+      {
+        "status": 1,
+        "x": 3,
+        "y": 6,
+        "user": "trang.cao"
+      },
+      {
+        "status": 1,
+        "x": 3,
+        "y": 7,
+        "user": "mo.le"
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 4,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 4,
+        "y": 1
+      },
+      {
+        "status": 0,
+        "x": 4,
+        "y": 2
+      },
+      {
+        "status": 0,
+        "x": 4,
+        "y": 3
+      },
+      {
+        "status": 1,
+        "x": 4,
+        "y": 4,
+        "user": "hien.lam"
+      },
+      {
+        "status": 1,
+        "x": 4,
+        "y": 5,
+        "user": "tan.vtn"
+      },
+      {
+        "status": 0,
+        "x": 4,
+        "y": 6
+      },
+      {
+        "status": 0,
+        "x": 4,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 5,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 5,
+        "y": 1
+      },
+      {
+        "status": 0,
+        "x": 5,
+        "y": 2
+      },
+      {
+        "status": 0,
+        "x": 5,
+        "y": 3
+      },
+      {
+        "status": 0,
+        "x": 5,
+        "y": 4
+      },
+      {
+        "status": 0,
+        "x": 5,
+        "y": 5
+      },
+      {
+        "status": 0,
+        "x": 5,
+        "y": 6
+      },
+      {
+        "status": 0,
+        "x": 5,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 6,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 6,
+        "y": 1
+      },
+      {
+        "status": 0,
+        "x": 6,
+        "y": 2
+      },
+      {
+        "status": 0,
+        "x": 6,
+        "y": 3
+      },
+      {
+        "status": 0,
+        "x": 6,
+        "y": 4
+      },
+      {
+        "status": 0,
+        "x": 6,
+        "y": 5
+      },
+      {
+        "status": 0,
+        "x": 6,
+        "y": 6
+      },
+      {
+        "status": 0,
+        "x": 6,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 7,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 7,
+        "y": 1
+      },
+      {
+        "status": 0,
+        "x": 7,
+        "y": 2
+      },
+      {
+        "status": 0,
+        "x": 7,
+        "y": 3
+      },
+      {
+        "status": 0,
+        "x": 7,
+        "y": 4
+      },
+      {
+        "status": 0,
+        "x": 7,
+        "y": 5
+      },
+      {
+        "status": 0,
+        "x": 7,
+        "y": 6
+      },
+      {
+        "status": 0,
+        "x": 7,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 8,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 8,
+        "y": 1
+      },
+      {
+        "status": 0,
+        "x": 8,
+        "y": 2
+      },
+      {
+        "status": 0,
+        "x": 8,
+        "y": 3
+      },
+      {
+        "status": 0,
+        "x": 8,
+        "y": 4
+      },
+      {
+        "status": 0,
+        "x": 8,
+        "y": 5
+      },
+      {
+        "status": 0,
+        "x": 8,
+        "y": 6
+      },
+      {
+        "status": 0,
+        "x": 8,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 9,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 9,
+        "y": 1
+      },
+      {
+        "status": 0,
+        "x": 9,
+        "y": 2
+      },
+      {
+        "status": 0,
+        "x": 9,
+        "y": 3
+      },
+      {
+        "status": 0,
+        "x": 9,
+        "y": 4
+      },
+      {
+        "status": 0,
+        "x": 9,
+        "y": 5
+      },
+      {
+        "status": 0,
+        "x": 9,
+        "y": 6
+      },
+      {
+        "status": 0,
+        "x": 9,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 10,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 10,
+        "y": 1
+      },
+      {
+        "status": 0,
+        "x": 10,
+        "y": 2
+      },
+      {
+        "status": 0,
+        "x": 10,
+        "y": 3
+      },
+      {
+        "status": 0,
+        "x": 10,
+        "y": 4
+      },
+      {
+        "status": 0,
+        "x": 10,
+        "y": 5
+      },
+      {
+        "status": 0,
+        "x": 10,
+        "y": 6
+      },
+      {
+        "status": 0,
+        "x": 10,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "status": 0,
+        "x": 11,
+        "y": 0
+      },
+      {
+        "status": 0,
+        "x": 11,
+        "y": 1
+      },
+      {
+        "status": 0,
+        "x": 11,
+        "y": 2
+      },
+      {
+        "status": 0,
+        "x": 11,
+        "y": 3
+      },
+      {
+        "status": 0,
+        "x": 11,
+        "y": 4
+      },
+      {
+        "status": 0,
+        "x": 11,
+        "y": 5
+      },
+      {
+        "status": 0,
+        "x": 11,
+        "y": 6
+      },
+      {
+        "status": 0,
+        "x": 11,
+        "y": 7
+      }
+    ]
+  ]
+}

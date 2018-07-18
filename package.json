@@ -1,0 +1,22 @@
+{
+  "name": "globe-agent-sales-server",
+  "version": "1.0.0",
+  "description": "API Gateway Mock",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "del": "^3.0.0",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "lowdb": "^1.0.0",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0"
+  }
+}
